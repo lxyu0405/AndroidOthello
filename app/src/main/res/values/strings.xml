@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Othello</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- welcome begins -->
+    <string name="myName">Name: Lu Xiaoyu</string>
+    <string name="myUID">UID: 3035237080</string>
+    <string name="title_activity_main_game">OthelloGame</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- welcome ends -->
+
+
+    <!-- main game begins -->
+    <string name="newGame">NEW GAME</string>
+    <string name="retract">RETRACT</string>
+    <string name="hintsOn">HINTS ON</string>
+    <string name="hintsOff">HINTS OFF</string>
+    <string name="whichTurn">Turn: </string>
+    <!-- main game ends -->
+
+</resources>
