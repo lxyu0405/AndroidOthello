@@ -5,4 +5,4 @@ This is a little android game, Othello
 - Test AVD: Nexus S (with resolution 800x480)
 
 #### Game UI
-
+![image](https://github.com/lxyu0405/AndroidOthello/blob/master/gameUI.png)
